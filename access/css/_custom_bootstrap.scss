@@ -1,0 +1,16 @@
+
+$--bs-gold:#F8D06B;
+$--bs-colorful:#ff0066;
+
+.btn-outline-gold {
+  color: $--bs-gold;
+  border-color: $--bs-gold;
+}
+.btn-colorful {
+  color: #fff;
+  background-color: $--bs-colorful;
+}
+
+.text-colorful {
+  color: $--bs-colorful;
+}
